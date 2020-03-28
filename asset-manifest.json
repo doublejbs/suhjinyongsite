@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/doublejbs/suhjinyong.com/static/css/main.bfd9321d.chunk.css",
+    "main.js": "/doublejbs/suhjinyong.com/static/js/main.f36d96c8.chunk.js",
+    "runtime-main.js": "/doublejbs/suhjinyong.com/static/js/runtime-main.b47df596.js",
+    "static/js/2.a69bd62c.chunk.js": "/doublejbs/suhjinyong.com/static/js/2.a69bd62c.chunk.js",
+    "index.html": "/doublejbs/suhjinyong.com/index.html",
+    "precache-manifest.313031a4b73d48a07554e5737fd6837a.js": "/doublejbs/suhjinyong.com/precache-manifest.313031a4b73d48a07554e5737fd6837a.js",
+    "service-worker.js": "/doublejbs/suhjinyong.com/service-worker.js",
+    "static/js/2.a69bd62c.chunk.js.LICENSE.txt": "/doublejbs/suhjinyong.com/static/js/2.a69bd62c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/doublejbs/suhjinyong.com/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b47df596.js",
+    "static/js/2.a69bd62c.chunk.js",
+    "static/css/main.bfd9321d.chunk.css",
+    "static/js/main.f36d96c8.chunk.js"
+  ]
+}
